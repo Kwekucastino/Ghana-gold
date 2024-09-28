@@ -1,0 +1,2 @@
+# Ghana-gold
+gold prices
